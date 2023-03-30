@@ -1,0 +1,50 @@
+Nhà thờ Đức Bà - 01 Công xã Paris,Bến Nghé,Quận 1,Hồ Chí Minh,10.7796,106.6996
+Chợ Bến Thành - Lê Lợi,Bến Thành,Quận 1,Hồ Chí Minh,10.7726,106.6983
+Phố đi bộ Nguyễn Huệ - Nguyễn Huệ,Bến Nghé,Quận 1,Hồ Chí Minh,10.7753,106.6993
+Công viên Tao Đàn - Nguyễn Trãi,Phường 8,Quận 5,Hồ Chí Minh,10.7653,106.6672
+Nhà hát Thành phố Hồ Chí Minh - 7 Công trường Lam Sơn,Bến Nghé,Quận 1,Hồ Chí Minh,10.7761,106.7020
+Bảo tàng Hồ Chí Minh - 1 Nguyễn Tất Thành,Phường 12,Quận 4,Hồ Chí Minh,10.7673,106.7026
+Thảo Cầm Viên - 2 Nguyễn Bỉnh Khiêm,Phường Bến Nghé,Quận 1,Hồ Chí Minh,10.7847,106.7006
+Chùa Vĩnh Nghiêm - 339 Nam Kỳ Khởi Nghĩa,Phường 7,Quận 3,Hồ Chí Minh,10.7833,106.6855
+Công viên 30 Tháng 4 - Lê Duẩn,Bến Thành,Quận 1,Hồ Chí Minh,10.7737,106.7001
+Bảo tàng Mỹ thuật TP.HCM - 97A Phó Đức Chính,Nguyễn Thái Bình,Quận 1,Hồ Chí Minh,10.7725,106.6963
+Nhà thờ Tân Định - 289 Hai Bà Trưng,Phường 8,Quận 3,Hồ Chí Minh,10.7945,106.6875
+Hầm Kim Liên - Đường Lê Duẩn,Bến Thành,Quận 1,Hồ Chí Minh,10.7747,106.6993
+Công viên Gia Định - Phan Đăng Lưu,Phường 3,Phú Nhuận,Hồ Chí Minh,10.8012,106.6768
+Tháp Đôi Bitexco - 36 Hồ Tùng Mậu,Bến Nghé,Quận 1,Hồ Chí Minh,10.7712,106.7046
+Nhà thờ Huyện Sĩ - 21 Tôn Thất Thiệp,Bến Nghé,Quận 1,Hồ Chí Minh,10.7723,106.7015
+Công viên Lê Văn Tám - Nam Kỳ Khởi Nghĩa,Phường Bến Nghé,Quận 1,Hồ Chí Minh,10.7824,106.6994
+Chùa Bửu Long - 81 Tăng Bạt Hổ,Phường 11,Quận 6,Hồ Chí Minh,10.7588,106.6362
+Khu phố Tây - Phạm Ngũ Lão,Phường Phạm Ngũ Lão,Quận 1,Hồ Chí Minh,10.7685,106.6948
+Đại học Kinh tế Tp.HCM - 279 Nguyễn Tri Phương,Phường 5,Quận 10,Hồ Chí Minh,10.7658,106.6692
+20.	Nhà hát Lớn Thành phố Hồ Chí Minh - 7 Công trường Lam Sơn,Bến Nghé,Quận 1,Hồ Chí Minh,10.7764,106.7016
+Chợ Tân Định - Hai Bà Trưng,Phường 8,Quận 3,Hồ Chí Minh,10.7951,106.6880
+Bảo tàng Lịch sử Việt Nam - 2 Nguyễn Bỉnh Khiêm,Bến Nghé,Quận 1,Hồ Chí Minh,10.7846,106.7022
+Nhà thờ Hồng Hải - 360 Trần Hưng Đạo,Cầu Kho,Quận 1,Hồ Chí Minh,10.7615,106.6942
+Bệnh viện Từ Dũ - 284 Cống Quỳnh,Phường Phạm Ngũ Lão,Quận 1,Hồ Chí Minh,10.7644,106.6902
+Chợ Bình Tây 57 Tháp Mười,Phường 2,Quận 6,Hồ Chí Minh,10.7517,106.6612
+Bảo tàng Hải quân - 2 Nguyễn Tất Thành,Phường 12,Quận 4,Hồ Chí Minh,10.7676,106.7026
+Nhà thờ Phú Hậu - 121 Đường số 5,Phường Phú Trung,Tân Phú,Hồ Chí Minh,10.7654,106.6262
+Công viên Đầm Sen - 03 Hòa Bình,Phường 3,Quận 11,Hồ Chí Minh,10.7657,106.6415
+Bảo tàng Tài nguyên nước TP.HCM - 120 Đường Lê Văn Việt,Tăng Nhơn Phú A,Thủ Đức,Hồ Chí Minh,10.8492,106.7973
+Chùa Vĩnh Nghiêm - 339 Nam Kỳ Khởi Nghĩa,Phường 7,Quận 3,Hồ Chí Minh,10.7784,106.6874
+Trường Đại học Bách khoa TP.HCM - 268 Lý Thường Kiệt,Phường 14,Quận 10,Hồ Chí Minh,10.7734,106.6578
+Nhà thờ Tân Định - 289 Hai Bà Trưng,Phường 8,Quận 3,Hồ Chí Minh,10.7933,106.6889
+Bảo tàng Mỹ thuật TP.HCM - 97A Phó Đức Chính,Nguyễn Thái Bình,Quận 1,Hồ Chí Minh,10.7721,106.7022
+Chợ Bến Thành - Lê Lợi,Phường Bến Thành,Quận 1,Hồ Chí Minh,10.7729,106.6983
+Chợ Hòa Bình - 87 Điện Biên Phủ,Phường 1,Quận 11,Hồ Chí Minh,10.7558,106.6434
+Bệnh viện Nhi Đồng Thành phố Hồ Chí Minh - 341 Lý Thường Kiệt,Phường 9,Tân Bình,Hồ Chí Minh,10.7781,106.6481
+Đền Hùng Sơn Tây Hồ Chí Minh - 119/4/3 Tô Hiến Thành,Phường 15,Quận 10,Hồ Chí Minh,10.7638,106.6635
+Nhà thờ Đức Bà - 01 Công xã Paris,Bến Nghé,Quận 1,Hồ Chí Minh,10.7798,106.6985
+Bảo tàng Phụ nữ Nam Bộ - 202 Võ Thị Sáu,Phường 7,Quận 3,Hồ Chí Minh,10.7826,106.6868
+Nhà thờ Núi - 22 Tôn Đức Thắng,Bến Nghé,Quận 1,Hồ Chí Minh,10.7724,106.7023
+Chợ Bà Chiểu - Điện Biên Phủ,Phường 11,Bình Thạnh,Hồ Chí Minh,10.8098,106.7189
+Bảo tàng TPHCM - 65 Nguyễn Bỉnh Khiêm,Bến Nghé,Quận 1,Hồ Chí Minh,10.7845,106.7035
+Nhà thờ Huyện Sỹ - 22 Huyền Trân Công Chúa,Bến Nghé,Quận 1,Hồ Chí Minh,10.7741,106.7001
+Bảo tàng Lịch sử Việt Nam - 2 Nguyễn Bỉnh Khiêm,Bến Nghé,Quận 1,Hồ Chí Minh,10.7851,106.7021
+Trường THPT Marie Curie - 189 Nguyễn Thị Minh Khai,Phường 6,Quận 3,Hồ Chí Minh,10.7796,106.6859
+Chùa Bửu Long - Khu phố 1,Phường Long Bình,Thủ Đức,Hồ Chí Minh,10.8466,106.7833
+Nhà thờ Giáo xứ Cầu Kho - 92 Cầu Kho,Phường Nguyễn Thái Bình,Quận 1,Hồ Chí Minh,10.7642,106.6971
+Bến Bạch Đằng - 01 Tôn Đức Thắng,Bến Nghé,Quận 1,Hồ Chí Minh,10.7726,106.7023
+Chợ Tân Định - 360B Tân Định,Phường 1,Tân Bình,Hồ Chí Minh,10.7938,106.6831
+Bảo tàng Văn hóa Sa Huỳnh - 41 Phan Xích Long,Phường 3,Phú Nhuận,Hồ Chí Minh,10.7968,106.6832
